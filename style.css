@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: "Twentieth century" sans-serif;
+    font-family:Roboto;
 }
 
 .main_container{
@@ -55,6 +55,7 @@ nav ul li a{
     color: white;
     font-weight: 100;
     font-size:12px;
+    font-family: Roboto Static;
    /* transition: transform .5s ease; */
     
 }
@@ -81,6 +82,7 @@ nav ul li a:hover{
     margin-top: 50px;
     text-transform: uppercase;
     font-size:2em;
+    font-family: Roboto Static;
 }
 .cart_detail span{
     opacity: 0.10;
@@ -118,13 +120,14 @@ nav ul li a:hover{
 
 .all_cart strike{
     opacity: 0.5;
+    font-family: Roboto Static;
 }
 
 .all_cart h5{
     font-size: 8px;
    color: #827f7f;
    text-transform: uppercase;
-  
+   font-family: Roboto Static;
    margin:10px;
     
 }
@@ -132,6 +135,7 @@ nav ul li a:hover{
     line-height: 20px;
     margin: 10px;
     font-weight:400;
+    font-family: Roboto;
 }
   
 
@@ -218,6 +222,7 @@ nav ul li a:hover{
     font-size:25px;
     margin-top: 25px;
     font-weight:500;
+    font-family: Roboto;
 
   }
 
@@ -252,6 +257,7 @@ nav ul li a:hover{
     font-family: sans-serif;
     line-height: 50px;
     text-transform: uppercase;
+    font-family: Roboto ;
   }
 
 
@@ -306,12 +312,13 @@ nav ul li a:hover{
     font-family: sans-serif;
     letter-spacing: 1px;
     word-spacing: 1px;
+    font-family: Roboto;
    
 
   }
   .new_cart p{
     line-height: 15px;
-    font-family: sans-serif;
+    font-family: Roboto;
   }
 
 
@@ -324,7 +331,7 @@ nav ul li a:hover{
   }
   .middle-img-5 h1{
     font-size: 30px;
-    font-family: sans-serif;
+    font-family:Roboto;
     text-transform: uppercase;
     text-align: center;
     margin-top: 20px;
@@ -352,6 +359,7 @@ nav ul li a:hover{
   text-align: center;
   font-size: 17px;
   text-transform: uppercase;
+  font-family: Roboto;
 
 }
 
@@ -368,6 +376,7 @@ nav ul li a:hover{
 }
 .icons-img p{
   margin-left: 50px;
+  font-family: Roboto Static;
 }
 .icons-img img{
   transition: 5s ease; 
@@ -394,7 +403,7 @@ nav ul li a:hover{
   text-transform: uppercase;
   color:#3e3d3d;
   font-size: 25px;
-  font-family: sans-serif ,"twentieth century";
+  font-family: Roboto ;
 word-spacing: 2px;
 }
 
@@ -432,9 +441,10 @@ word-spacing: 2px;
 .customer-review h1{
   text-align: center;
   font-size: 25px;
-  font-family: sans-serif;
+ 
   font-weight: 300;
   color: #393939;
+  font-family: Roboto;
 }
 
 
@@ -480,7 +490,7 @@ word-spacing: 2px;
 
   width: 100%;
   text-align: center;
-
+  font-family: Roboto Static;
 }
 
 
@@ -492,7 +502,7 @@ word-spacing: 2px;
   font-weight: 200;
   font-family: sans-serif ,"twentieth century";
   font-size: 17px;
- 
+  font-family: Roboto Static;
   text-align: center;
 }
 .arrow {
@@ -566,12 +576,14 @@ footer {
   padding-bottom: 10px;
   margin-bottom: 10px;
   opacity: 7;
+  font-family: Roboto Static;
 }
 
 .footer-section p{
   /* border: 2px solid red ; */
   font-size: 13px;
   opacity: 0.5;
+  font-family: Roboto Static;
 }
 .footer-section ul {
   list-style: none;
@@ -650,8 +662,9 @@ footer {
   letter-spacing: 2px ;
   font-size: 20px;
   /* border: 2px solid red ; */
-  font-family: Arial,  sans-serif;
+  /* font-family: Arial,  sans-serif; */
   opacity: 0.5;
+  font-family: Roboto Static;
 }
 .last-two-footer p{
   color: white;
@@ -659,8 +672,9 @@ footer {
   margin: 10px;
   line-height: 20px;
   font-size: 12px;
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
   cursor: pointer;
+  font-family: Roboto Static;
 }
 
 .copy-right{
